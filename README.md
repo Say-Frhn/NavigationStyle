@@ -7,6 +7,7 @@ This code represents one of my first header components I've carefully crafted it
 Optimal structure and elegant organization.
 
 Key Features:
+
 ✔ Responsive Behavior (Adapts to screen resizing and mouse interactions)
 
 ✔ Glass Border Effect (Frosted glass aesthetic)
